@@ -1,0 +1,11 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="----------| SPOR |----------" tvg-logo="" group-title="",----------| SPOR |----------
+http://sutverduz.com:8080/live/uygun01/01uygun/8621.ts
+#EXTINF:-1 tvg-ID="dt.377" tvg-name="Bein Sports Hd 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",Bein Sports Hd 1
+http://sutverduz.com:8080/live/uygun01/01uygun/135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 1 Hd 265.hvec" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",Bein Sports 1 Hd 265.hvec
+http://sutverduz.com:8080/live/uygun01/01uygun/2785.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports Sd 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",Bein Sports Sd 1
+http://sutverduz.com:8080/live/uygun01/01uygun/8568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports Hd 1 Mobile" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",Bein Sports Hd 1 Mobile
+http://sutverduz.com:8080/live/uygun01/01uygun/8238.ts
